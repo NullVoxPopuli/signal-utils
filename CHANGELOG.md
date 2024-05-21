@@ -1,5 +1,25 @@
 # Changelog
 
+## Release (2024-05-21)
+
+signal-utils 0.17.0 (minor)
+
+#### :rocket: Enhancement
+* `signal-utils`
+  * [#69](https://github.com/proposal-signals/signal-utils/pull/69) Add batchedEffect() ([@justinfagnani](https://github.com/justinfagnani))
+
+#### :memo: Documentation
+* `signal-utils`
+  * [#68](https://github.com/proposal-signals/signal-utils/pull/68) Fix localCopy demo for ember ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### :house: Internal
+* `signal-utils`
+  * [#67](https://github.com/proposal-signals/signal-utils/pull/67) Update publish.yml ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 2
+- Justin Fagnani ([@justinfagnani](https://github.com/justinfagnani))
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
 ## Release (2024-05-13)
 
 signal-utils 0.16.0 (minor)
